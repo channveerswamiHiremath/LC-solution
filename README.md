@@ -12,9 +12,8 @@ I’m solving problems of all levels — **Easy, Medium, and Hard** — and uplo
 
 Example:  
 - `Two_Sum(1).py`  
-- `Valid_Parentheses(20).py`  
-- `Median_of_Two_Sorted_Arrays(4).py`
-
+- `ValidParentheses(20).py`
+  
 ---
 
 ## Purpose
